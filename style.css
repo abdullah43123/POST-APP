@@ -1,0 +1,23 @@
+.font{
+    font-size: 100px;
+}
+
+.box{
+    width: 800px;
+    height: 200px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-images{
+    width: 3rem;
+    height: 3rem;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+
+}
